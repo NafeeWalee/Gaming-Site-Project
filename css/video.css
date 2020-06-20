@@ -1,0 +1,56 @@
+*{margin:0; padding:0;}
+
+body{ 
+
+background-repeat: no-repeat;
+background-size: 100% 1122px; 
+
+}
+.back_btn{
+	margin-top:10px;
+	color: white;
+	margin-bottom:15px;
+	margin-left:140px;
+    padding: 10px;
+    background-color: black;
+	border-radius : 15px;
+	
+}
+.main{margin:auto;
+height:930px;
+width:1050px;
+display:block;
+overflow:hidden;
+background-image:url("grey-background-pattern.png");
+border-left:groove;
+border-right:groove;
+border-bottom:solid;
+background-color:white;
+
+}
+.icon{
+ height:180px;
+ width:900px;
+ display:block;
+overflow:hidden;
+
+padding:0px 130px 0px 0px;
+	}
+.text{
+size:100% auto;
+padding-left:260px;
+display:block;
+font-size:50px;
+color:gold;
+float:left;
+
+}
+.video{
+width:100%;
+display:block;
+overflow:hidden;}
+
+.des{
+	padding-top:10px;
+	
+	}

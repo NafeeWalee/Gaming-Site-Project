@@ -1,0 +1,108 @@
+*{margin:0;padding:0}
+
+.background-wrap
+{
+	position:fixed;
+	z-index:-1;
+	width:100%;
+	height:100%;
+	overflow:hidden;
+	top: 8;
+	left:0;
+	
+}
+.vid
+{
+	position:absolute;
+	top:50%;
+	left:50%;
+	min-height:100%;
+	min-width:100%;
+}
+.title
+{
+	color:white;
+	font-size:28px;
+	font-weight: bold;
+	padding-bottom:15px;
+	
+}
+.icon
+{
+	width:250px;
+	margin:0 auto;
+}
+.main
+{
+	border-radius : 10px;
+	border: 3px solid black;
+	background-color: rgba(0,0,0,0.3);
+	width: 400px;
+	min-height:100;
+	margin-top: 30px;
+	margin-left:20px;
+	padding-top:10px;
+	padding-bottom:10px; 
+	position:absolute;
+	z-index:1;
+	
+}
+.inner_container
+{
+	float:left;
+	color:white;
+	width:350px;
+	margin-left:10px;
+}
+input
+{
+    
+	margin: 5 auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+	border-radius : 15px;
+}
+#username
+{
+	
+	width: 360px;
+}
+#password
+{
+	width: 360px;
+}
+.login
+{
+    background-color: black;
+    color: white;
+	margin-top:10px;
+    padding:10px;
+    width: 45%;
+	font-size:18px;
+	font-weight: bold;
+	border-radius : 20px;
+	margin-left:15px;
+}
+.register
+{
+	background-color: black;
+    color: white;
+	margin-top:10px;
+	margin-bottom:15px;
+	margin-left:10px;
+	padding:10px;
+    width: 45%;
+	font-size:18px;
+	font-weight: bold;
+	border-radius : 20px;	
+}
+.remember
+{	 
+	color:white;
+	height:50px;
+	width:450px;
+	margin-left:15px;
+	float:left;
+	
+}
+
